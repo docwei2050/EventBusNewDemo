@@ -1,0 +1,4 @@
+rootProject.name='EventBusNewDemo'
+include ':app'
+include ':annotation'
+include ':processor'
